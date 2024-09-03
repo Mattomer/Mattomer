@@ -1,7 +1,7 @@
 from setuptools import find_packages, setup
 
 setup(
-    name='modAL-python',
+    name='mattomer',
     version='0.4.2',
     author='Tivadar Danka',
     author_email='85a5187a@opayq.com',
