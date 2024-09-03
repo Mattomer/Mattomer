@@ -2,6 +2,8 @@
 
 Modular Active Learning framework for Python3
 
+*Mattomer* is a fork of modAL, after that project became stale and stopped accepting pull requests. If you're interested in contributing to this repository, please submit issues/PR's. If you're interested in becoming an admin, please email me at tkin063 at aucklanduni.ac.nz.
+
 [![travis-ci-master](https://travis-ci.org/modAL-python/modAL.svg?branch=master)](https://travis-ci.org/modAL-python/modAL) [![codecov-master](https://codecov.io/gh/modAL-python/modAL/branch/master/graph/badge.svg)](https://codecov.io/gh/modAL-python/modAL) [![readthedocs](https://readthedocs.org/projects/modal-python/badge/?version=latest)](http://modal-python.readthedocs.io/en/latest/?badge=latest)
 
 ## Page contents
