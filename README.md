@@ -1,4 +1,4 @@
-<img src="https://modal-python.readthedocs.io/en/latest/_static/modAL_b.png" alt="modAL" style="width: 400px;">
+<img src="docs/source/content/img/Mattomer.png" alt="modAL" style="width: 400px;">
 
 Modular Active Learning framework for Python3
 
