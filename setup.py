@@ -1,4 +1,7 @@
 from setuptools import find_packages, setup
+from pathlib import Path
+
+long_description = (Path(__file__).parent / "README.md").read_text()
 
 setup(
     name='mattomer',
@@ -6,6 +9,8 @@ setup(
     author='Tivadar Danka',
     author_email='85a5187a@opayq.com',
     description='A modular active learning framework for Python3',
+    long_description=long_description,
+    long_description_content_type='text/markdown',
     license='MIT',
     url='https://modAL-python.github.io/',
     packages=['modAL', 'modAL.models', 'modAL.utils'],
